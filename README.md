@@ -4,5 +4,5 @@ Repositori ini berisi program sederhana dalam bahasa C++/CPP yang digunakan untu
 
 Fitur Program
 - Mengambil input jari-jari lingkaran dari user
-- Menghitung luas lingkaran dan keliling lingkaran (2 program berbeda)
+- Menghitung luas lingkaran dan keliling lingkaran (2 program yang berbeda)
 - Menampilkan hasil perhitungan ke layar
